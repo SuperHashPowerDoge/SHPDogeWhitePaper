@@ -2,7 +2,6 @@
 
 [^SHPDoge]: Super Hash Power Doge  超强算力狗 **|** 挖矿狗
 
-![image-20210711090825890](/Users/token/Library/Application Support/typora-user-images/image-20210711090825890.png)
 
 > 在币安智能链 (BSC) 上发行 **SHPDoge** 代币
 >
@@ -15,12 +14,9 @@
 [^财富自由]: 简单说来，财富自由就是有足够多的时间和足够多的钱做你想做的事情。在“基本”的生活需求得到“持续”保障的前提下，有足够的资本可以“自由”的投入到“该”做的事情中。
 [^SHPDoge 目标价 1 U]: **SHPDoge** 代币已经上架币安 pancakeswap 去中心化交易所，每个人实现财富自由的标准不一样，请根据自己的财富自由目标买入对应数量的 **SHPDoge** 代币，10 年以内实现财富自由
 
-![image-20210711090902131](/Users/token/Library/Application Support/typora-user-images/image-20210711090902131.png)
-$$
-假如你的财富自由目标是 100 万 U ，那么你只需要购买 100 万 **SHPDoge** 代币即可在 10 年内实现财富自由
-$$
 
-> - [ ] 
+假如你的财富自由目标是 100 万 U ，那么你只需要购买 100 万 **SHPDoge** 代币即可在 10 年内实现财富自由
+
 
 # 代币分配
 
@@ -36,7 +32,7 @@ $$
 >
 > 机构 10%
 
-- [ ] 
+
 
 # 实现目标路线图
 
